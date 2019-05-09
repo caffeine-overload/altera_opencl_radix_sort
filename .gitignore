@@ -1,0 +1,5 @@
+bin/*
+venv/*
+build_qsub*
+build_kernels1.sh
+reports/*
